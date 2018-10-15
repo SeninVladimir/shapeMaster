@@ -1,0 +1,6 @@
+C:\Users\darprod\source\repos\shapeMaster\shapeMaster\bin\Debug\shapeMaster.dll
+C:\Users\darprod\source\repos\shapeMaster\shapeMaster\bin\Debug\shapeMaster.pdb
+C:\Users\darprod\source\repos\shapeMaster\shapeMaster\obj\Debug\shapeMaster.csprojAssemblyReference.cache
+C:\Users\darprod\source\repos\shapeMaster\shapeMaster\obj\Debug\shapeMaster.csproj.CoreCompileInputs.cache
+C:\Users\darprod\source\repos\shapeMaster\shapeMaster\obj\Debug\shapeMaster.dll
+C:\Users\darprod\source\repos\shapeMaster\shapeMaster\obj\Debug\shapeMaster.pdb

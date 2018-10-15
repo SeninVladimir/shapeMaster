@@ -1,0 +1,2 @@
+select Products.NAME, Categories.Name AS Категория
+FROM Categories RIGHT OUTER JOIN Products ON Categories.Id = Products.Category_id

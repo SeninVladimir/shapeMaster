@@ -1,0 +1,10 @@
+C:\Users\darprod\source\repos\shapeMaster\Proba\bin\Debug\Proba.exe.config
+C:\Users\darprod\source\repos\shapeMaster\Proba\bin\Debug\Proba.exe
+C:\Users\darprod\source\repos\shapeMaster\Proba\bin\Debug\Proba.pdb
+C:\Users\darprod\source\repos\shapeMaster\Proba\bin\Debug\shapeMaster.dll
+C:\Users\darprod\source\repos\shapeMaster\Proba\bin\Debug\shapeMaster.pdb
+C:\Users\darprod\source\repos\shapeMaster\Proba\obj\Debug\Proba.csprojAssemblyReference.cache
+C:\Users\darprod\source\repos\shapeMaster\Proba\obj\Debug\Proba.csproj.CoreCompileInputs.cache
+C:\Users\darprod\source\repos\shapeMaster\Proba\obj\Debug\Proba.csproj.CopyComplete
+C:\Users\darprod\source\repos\shapeMaster\Proba\obj\Debug\Proba.exe
+C:\Users\darprod\source\repos\shapeMaster\Proba\obj\Debug\Proba.pdb
